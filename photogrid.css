@@ -1,0 +1,17 @@
+img
+{
+		width: 400px;
+		float: left;
+		margin: 1.66%;
+}
+
+p{
+	font-family: open-sans;
+	font-size: 23px;
+	font-weight: 800;
+	margin-left: 20px;
+	text-transform: uppercase;
+	border-bottom: 2px solid skyblue;
+	width: 30%;
+    padding-bottom: 20px;
+}

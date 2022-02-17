@@ -1,0 +1,40 @@
+
+
+p
+{
+	font-family: "Arial";
+}
+
+h1
+{
+	font-family: georgia;
+}
+
+
+h1
+{
+	font-size: 25px;
+}
+
+span
+{
+	font-size: 25px;
+}
+
+p{
+	font-weight: bold;
+}
+
+p
+{
+	line-height: 2;
+}
+
+h1
+{
+	text-align: center;
+}
+
+p{
+	text-decoration: underline;
+}

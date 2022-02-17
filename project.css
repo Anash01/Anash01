@@ -1,0 +1,48 @@
+h4
+{
+	/*font-family: open-sans;*/
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.3em;
+}
+
+h2
+{   
+	/*font-family: open-sans;*/
+	color: #2c3e50;
+}
+
+
+body
+{
+	font-family: open-sans;
+	border: 20px solid #bdc3c7;
+	margin-top: 20px;
+	margin-left: 220px;
+	margin-right: 220px;	
+	padding-left: 20px ;
+	padding-bottom: 20px;
+
+}
+
+.special
+{
+	/*border-left: 5px solid #bdc3c7;*/
+	padding-left: 5px;
+
+}
+
+.one
+{
+	/*border-bottom: 2px solid #bdc3c7;*/
+	padding-right: 20px;
+}
+
+.two
+{
+	/*border-bottom: 2px solid #bdc3c7;*/
+}
+hr
+{
+	color:#bdc3c7;
+}
